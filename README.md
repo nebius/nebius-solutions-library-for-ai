@@ -1,7 +1,7 @@
 
 # Video summarization demo
 
-In this repo, we implement a script to create a short text summary of a video. 
+In this repo, we implement a script to create a short text/audio summary of a video/audio. 
 
 
 # Quickstart

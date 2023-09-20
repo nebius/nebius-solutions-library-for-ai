@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package translate.v2;
+package yandex.cloud.ai.translate.v2;
 
 message TranslatedText {
   // Translated text.

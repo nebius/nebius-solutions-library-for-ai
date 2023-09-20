@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package speechkit.tts.v3;
 
-import "api/tts/tts.proto";
+import "ai/tts/tts.proto";
 
 // A set of methods for voice synthesis.
 service Synthesizer {

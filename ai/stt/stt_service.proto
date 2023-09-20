@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package speechkit.stt.v3;
 
-import "api/stt/stt.proto";
+import "ai/stt/stt.proto";
 
 // A set of methods for voice recognition.
 service Recognizer {

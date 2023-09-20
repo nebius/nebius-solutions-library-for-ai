@@ -2,11 +2,11 @@ syntax = "proto3";
 
 package yandex.cloud.ai.translate.v2;
 
-import "api/translate/translation.proto";
+import "ai/translate/translation.proto";
 
 import "google/api/annotations.proto";
-import "cloud/validation.proto";
-import "cloud/api/tools/options.proto";
+import "validation.proto";
+import "api/tools/options.proto";
 
 // A set of methods for the Translate service.
 service TranslationService {
